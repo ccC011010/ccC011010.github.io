@@ -1,6 +1,6 @@
 # Gradle files
 .gradle/
-build/
+build/edit first time...
 
 # Local configuration file (sdk path, etc)
 local.properties
